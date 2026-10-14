@@ -37,7 +37,9 @@ export default {
     ],
     // Optional notes for growth bands, keyed by year ("2027") or month ("2026-07").
     zoneNotes: {
-      '2026-07': 'first specimens: Rust and C++',
+      '2023-01': 'first program: C',
+      '2024-05': 'second specimens: C++',
+      '2025-07': 'third : Rust',
       '2026-08': 'firmware for an ESP32-S3',
     },
   },
