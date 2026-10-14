@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 525" width="1000" height="525" role="img" aria-labelledby="t d" fill="none">
+<title id="t">Specimen data</title>
+<desc id="d">Formula: (C++)3 Rs2 · nC8H10N4O2 Crystal system: Hexagonal, still growing. Faces so far: systems, firmware and tooling. Habit: Small, sharp projects: a captive portal on an ESP32, a Rust and C++ workspace kept honest by CI. Hardness: 7. Harder than a segfault, softer than the borrow checker. Luster: Vitreous. Brightest around 3 a.m. Cleavage: Perfect, along the plane between “one more build” and sleep. Associated with: Rust, C++, CMake, PlatformIO, ESP32-S3, GitHub Actions. Locality: Undisclosed. Growth zoning: July 2026, 2 repositories; August 2026, 1 repositories.</desc>
+
+
+<line x1="150" y1="16" x2="150" y2="500.5" stroke="#30363d" stroke-width="1"/>
+<text x="0" y="34" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" font-style="italic" fill="#848d97">Formula</text>
+<text x="168" y="34" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="19" fill="#e6edf3">(C++)<tspan dy="5.3" font-size="12.9">3</tspan><tspan dy="-5.3"> </tspan> Rs<tspan dy="5.3" font-size="12.9">2</tspan><tspan dy="-5.3"> </tspan> · nC<tspan dy="5.3" font-size="12.9">8</tspan><tspan dy="-5.3"> </tspan>H<tspan dy="5.3" font-size="12.9">10</tspan><tspan dy="-5.3"> </tspan>N<tspan dy="5.3" font-size="12.9">4</tspan><tspan dy="-5.3"> </tspan>O<tspan dy="5.3" font-size="12.9">2</tspan><tspan dy="-5.3"> </tspan></text>
+<text x="168" y="57.5" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="14.5" font-style="italic" fill="#848d97">n is the number of coffees. It varies.</text>
+<text x="0" y="92" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" font-style="italic" fill="#848d97">Crystal system</text>
+<text x="168" y="92" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="17.5" fill="#c3ccd6">Hexagonal, still growing. Faces so far: systems,</text>
+<text x="168" y="117.5" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="17.5" fill="#c3ccd6">firmware and tooling.</text>
+<text x="0" y="156" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" font-style="italic" fill="#848d97">Habit</text>
+<text x="168" y="156" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="17.5" fill="#c3ccd6">Small, sharp projects: a captive portal on an</text>
+<text x="168" y="181.5" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="17.5" fill="#c3ccd6">ESP32, a Rust and C++ workspace kept honest by</text>
+<text x="168" y="207" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="17.5" fill="#c3ccd6">CI.</text>
+<text x="0" y="245.5" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" font-style="italic" fill="#848d97">Hardness</text>
+<text x="168" y="245.5" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="17.5" fill="#c3ccd6">7. Harder than a segfault, softer than the</text>
+<text x="168" y="271" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="17.5" fill="#c3ccd6">borrow checker.</text>
+<text x="0" y="309.5" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" font-style="italic" fill="#848d97">Luster</text>
+<text x="168" y="309.5" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="17.5" fill="#c3ccd6">Vitreous. Brightest around 3 a.m.</text>
+<text x="0" y="348" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" font-style="italic" fill="#848d97">Cleavage</text>
+<text x="168" y="348" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="17.5" fill="#c3ccd6">Perfect, along the plane between “one more</text>
+<text x="168" y="373.5" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="17.5" fill="#c3ccd6">build” and sleep.</text>
+<text x="0" y="412" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" font-style="italic" fill="#848d97">Associated with</text>
+<text x="168" y="412" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="17.5" fill="#c3ccd6">Rust, C++, CMake, PlatformIO, ESP32-S3, GitHub</text>
+<text x="168" y="437.5" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="17.5" fill="#c3ccd6">Actions.</text>
+<text x="0" y="476" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" font-style="italic" fill="#848d97">Locality</text>
+<text x="168" y="476" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="17.5" fill="#e6edf3" font-style="italic">Undisclosed.</text>
+<polygon points="923.4,263.8 787.3,321.9 668.9,233.1 686.6,86.2 822.7,28.1 941.1,116.9" fill="#214b74" stroke="#8fb3d9" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="901.7,247.5 790.5,295 693.9,222.5 708.3,102.5 819.5,55 916.1,127.5" fill="#1a1f29" stroke="#8fb3d9" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="854.7,212.3 797.6,236.6 747.9,199.4 755.3,137.7 812.4,113.4 862.1,150.6" stroke="#ffffff" stroke-opacity="0.11" stroke-width="0.8"/>
+<polygon points="869.7,223.5 795.3,255.2 730.7,206.7 740.3,126.5 814.7,94.8 879.3,143.3" stroke="#ffffff" stroke-opacity="0.06" stroke-width="0.8"/>
+<polygon points="860,216.2 796.8,243.2 741.8,202 750,133.8 813.2,106.8 868.2,148" stroke="#ffffff" stroke-opacity="0.07" stroke-width="0.8"/>
+<polygon points="919.2,260.6 787.9,316.7 673.7,231.1 690.8,89.4 822.1,33.3 936.3,118.9" stroke="#ffffff" stroke-opacity="0.08" stroke-width="0.8"/>
+<polygon points="909.8,253.6 789.3,305.1 684.5,226.5 700.2,96.4 820.7,44.9 925.5,123.5" stroke="#ffffff" stroke-opacity="0.11" stroke-width="0.8"/>
+<polygon points="917.4,259.3 788.2,314.4 675.8,230.2 692.6,90.7 821.8,35.6 934.2,119.8" stroke="#ffffff" stroke-opacity="0.07" stroke-width="0.8"/>
+<text x="805" y="180" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="14" font-style="italic" fill="#eef2f6" fill-opacity="0.92">Jul</text>
+<text x="875.3" y="65.4" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="14" font-style="italic" fill="#eef2f6" fill-opacity="0.92">Aug</text>
+<text x="805" y="349" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="14" font-style="italic" fill="#848d97">Fig. 2. Growth zoning, one band per month.</text>
+<polygon points="667.6,376.2 661.2,378.9 655.6,374.7 656.4,367.8 662.8,365.1 668.4,369.3" fill="#214b74" stroke="#848d97" stroke-opacity="0.5" stroke-width="0.8"/>
+<text x="679" y="377" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" fill="#e6edf3"><tspan font-weight="700">August 2026</tspan><tspan dx="10" font-style="italic" fill="#848d97">1 repository</tspan></text>
+<text x="679" y="398" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="15" fill="#c3ccd6">firmware for an ESP32-S3</text>
+<polygon points="667.6,428.2 661.2,430.9 655.6,426.7 656.4,419.8 662.8,417.1 668.4,421.3" fill="#1a1f29" stroke="#848d97" stroke-opacity="0.5" stroke-width="0.8"/>
+<text x="679" y="429" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" fill="#e6edf3"><tspan font-weight="700">July 2026</tspan><tspan dx="10" font-style="italic" fill="#848d97">2 repositories</tspan></text>
+<text x="679" y="450" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="15" fill="#c3ccd6">first specimens: Rust and C++</text>
+</svg>
