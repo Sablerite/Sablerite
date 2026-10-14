@@ -43,5 +43,5 @@
 <text x="679" y="398" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="15" fill="#3d444d">firmware for an ESP32-S3</text>
 <polygon points="667.6,428.2 661.2,430.9 655.6,426.7 656.4,419.8 662.8,417.1 668.4,421.3" fill="#161b24" stroke="#656d76" stroke-opacity="0.5" stroke-width="0.8"/>
 <text x="679" y="429" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" fill="#1f2328"><tspan font-weight="700">July 2026</tspan><tspan dx="10" font-style="italic" fill="#656d76">2 repositories</tspan></text>
-<text x="679" y="450" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="15" fill="#3d444d">first specimens: Rust and C++</text>
+<text x="679" y="450" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="15" fill="#3d444d">Rust, C++</text>
 </svg>
