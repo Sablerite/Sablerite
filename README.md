@@ -19,7 +19,7 @@ Rust, C++, and firmware for small boards. I build things to find out how they wo
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/spectrum-dark.svg"><img src="assets/spectrum-light.svg" width="100%" alt="Language spectrum: C++ 56%, Rust 44%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/strata-dark.svg"><img src="assets/strata-light.svg" width="100%" alt="Activity cross-section: 22 contributions since 2026-07."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/strata-dark.svg"><img src="assets/strata-light.svg" width="100%" alt="Activity cross-section: 23 contributions since 2026-07."></picture>
 
 <sub>The spectrum and the cross-section regrow every day from public activity on [@Sablerite](https://github.com/Sablerite).</sub>
 
