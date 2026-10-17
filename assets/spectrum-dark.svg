@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 252" width="1000" height="252" role="img" aria-labelledby="t d" fill="none">
 <title id="t">Language spectrum</title>
-<desc id="d">Language composition across 2 public repositories: C++ 55.8%, Rust 44.2%.</desc>
+<desc id="d">Language composition across 3 public repositories: Rust 55.0%, C++ 40.9%, Just 4.1%.</desc>
 
 <defs><linearGradient id="cont" x1="0" x2="1"><stop offset="0" stop-color="#8300b5"/><stop offset="0.067" stop-color="#6a00ff"/><stop offset="0.133" stop-color="#0000ff"/><stop offset="0.2" stop-color="#007bff"/><stop offset="0.267" stop-color="#00d5ff"/><stop offset="0.333" stop-color="#00ff92"/><stop offset="0.4" stop-color="#36ff00"/><stop offset="0.467" stop-color="#81ff00"/><stop offset="0.533" stop-color="#c3ff00"/><stop offset="0.6" stop-color="#ffff00"/><stop offset="0.667" stop-color="#ffbe00"/><stop offset="0.733" stop-color="#ff7700"/><stop offset="0.8" stop-color="#ff2100"/><stop offset="0.867" stop-color="#ff0000"/><stop offset="0.933" stop-color="#ff0000"/><stop offset="1" stop-color="#ff0000"/></linearGradient>
 <filter id="bloom" x="-50%" y="-10%" width="200%" height="120%"><feGaussianBlur stdDeviation="6"/></filter>
@@ -9,8 +9,9 @@
 <g clip-path="url(#bandclip)">
 <rect x="0" y="64" width="1000" height="96" fill="#0b0f15"/>
 <rect x="0" y="64" width="1000" height="96" fill="url(#cont)" opacity="0.07"/>
-<rect x="635.7" y="64" width="22" height="96" fill="#ffd200" opacity="0.26" filter="url(#bloom)"/><rect x="644" y="64" width="5.2" height="96" fill="#f0db7d" opacity="0.94"/>
-<rect x="708" y="64" width="24" height="96" fill="#ff8600" opacity="0.28" filter="url(#bloom)"/><rect x="717.2" y="64" width="5.6" height="96" fill="#ffc88c" opacity="1"/>
+<rect x="244.6" y="64" width="10.9" height="96" fill="#00c0ff" opacity="0.12" filter="url(#bloom)"/><rect x="248.4" y="64" width="3.3" height="96" fill="#267c99" opacity="0.6"/>
+<rect x="709.2" y="64" width="21.5" height="96" fill="#ff8600" opacity="0.25" filter="url(#bloom)"/><rect x="717.4" y="64" width="5.2" height="96" fill="#ecb579" opacity="0.92"/>
+<rect x="634.7" y="64" width="24" height="96" fill="#ffd200" opacity="0.28" filter="url(#bloom)"/><rect x="643.9" y="64" width="5.6" height="96" fill="#ffeb8c" opacity="1"/>
 <rect x="0" y="64" width="1000" height="96" fill="url(#vignette)"/>
 </g>
 <line x1="1" y1="160" x2="1" y2="167" stroke="#848d97" stroke-width="1"/><text x="1" y="184" text-anchor="start" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="13" font-style="italic" fill="#848d97">400 nm</text>
@@ -44,7 +45,8 @@
 <line x1="900" y1="160" x2="900" y2="163.5" stroke="#848d97" stroke-opacity="0.6" stroke-width="0.8"/>
 <line x1="933.3" y1="160" x2="933.3" y2="163.5" stroke="#848d97" stroke-opacity="0.6" stroke-width="0.8"/>
 <line x1="966.7" y1="160" x2="966.7" y2="163.5" stroke="#848d97" stroke-opacity="0.6" stroke-width="0.8"/>
-<line x1="646.7" y1="56" x2="646.7" y2="62" stroke="#848d97" stroke-opacity="0.6" stroke-width="0.8"/><text x="646.7" y="52" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="15" fill="#e6edf3">Rust<tspan dx="5" fill="#848d97" font-style="italic">44%</tspan></text>
-<line x1="720" y1="56" x2="720" y2="62" stroke="#848d97" stroke-opacity="0.6" stroke-width="0.8"/><text x="720" y="52" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="15" fill="#e6edf3">C++<tspan dx="5" fill="#848d97" font-style="italic">56%</tspan></text>
-<text x="0" y="244" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="14" font-style="italic" fill="#848d97">Fig. 3. Emission spectrum of 2 public repositories, each weighted equally.</text>
+<line x1="250" y1="56" x2="250" y2="62" stroke="#848d97" stroke-opacity="0.6" stroke-width="0.8"/><text x="250" y="52" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="15" fill="#e6edf3">Just<tspan dx="5" fill="#848d97" font-style="italic">4.1%</tspan></text>
+<line x1="646.7" y1="56" x2="646.7" y2="62" stroke="#848d97" stroke-opacity="0.6" stroke-width="0.8"/><text x="646.7" y="52" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="15" fill="#e6edf3">Rust<tspan dx="5" fill="#848d97" font-style="italic">55%</tspan></text>
+<line x1="720" y1="56" x2="720" y2="62" stroke="#848d97" stroke-opacity="0.6" stroke-width="0.8"/><text x="720" y="52" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="15" fill="#e6edf3">C++<tspan dx="5" fill="#848d97" font-style="italic">41%</tspan></text>
+<text x="0" y="244" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="14" font-style="italic" fill="#848d97">Fig. 3. Emission spectrum of 3 public repositories, each weighted equally.</text>
 </svg>
