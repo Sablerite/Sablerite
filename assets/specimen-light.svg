@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 525" width="1000" height="525" role="img" aria-labelledby="t d" fill="none">
 <title id="t">Specimen data</title>
-<desc id="d">Formula: (C++)3 Rs2 · nC8H10N4O2 Crystal system: Hexagonal, still growing. Faces so far: systems, firmware and tooling. Habit: Small, sharp projects: a captive portal on an ESP32, a Rust and C++ workspace kept honest by CI. Hardness: 7. Harder than a segfault, softer than the borrow checker. Luster: Vitreous. Brightest around 3 a.m. Cleavage: Perfect, along the plane between “one more build” and sleep. Associated with: Rust, C++, CMake, PlatformIO, ESP32-S3, GitHub Actions. Locality: Undisclosed. Growth zoning: July 2026, 2 repositories; August 2026, 1 repositories; October 2026, 1 repositories.</desc>
+<desc id="d">Formula: (C++)3 Rs2 · nC8H10N4O2 Crystal system: Hexagonal, still growing. Faces so far: systems, firmware and tooling. Habit: Small, sharp projects: a captive portal on an ESP32, a Rust and C++ workspace kept honest by CI. Hardness: 7. Harder than a segfault, softer than the borrow checker. Luster: Vitreous. Brightest around 3 a.m. Cleavage: Perfect, along the plane between “one more build” and sleep. Associated with: Rust, C++, CMake, PlatformIO, ESP32-S3, GitHub Actions. Locality: Undisclosed. Growth zoning: July 2026, 2 repositories; August 2026, 1 repositories; October 2026, 2 repositories.</desc>
 
 
 <line x1="150" y1="16" x2="150" y2="500.5" stroke="#d0d7de" stroke-width="1"/>
@@ -28,23 +28,23 @@
 <text x="0" y="476" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" font-style="italic" fill="#656d76">Locality</text>
 <text x="168" y="476" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="17.5" fill="#1f2328" font-style="italic">Undisclosed.</text>
 <polygon points="923.4,263.8 787.3,321.9 668.9,233.1 686.6,86.2 822.7,28.1 941.1,116.9" fill="#6161ae" stroke="#ffffff" stroke-opacity="0.6" stroke-width="1"/>
-<polygon points="907.5,251.9 789.7,302.3 687.1,225.3 702.5,98.1 820.3,47.7 922.9,124.7" fill="#448d91" stroke="#ffffff" stroke-opacity="0.6" stroke-width="1"/>
-<polygon points="888.7,237.8 792.5,278.9 708.8,216.1 721.3,112.2 817.5,71.1 901.2,133.9" fill="#161b24" stroke="#ffffff" stroke-opacity="0.6" stroke-width="1"/>
-<polygon points="848,207.3 798.6,228.4 755.5,196.1 762,142.7 811.4,121.6 854.5,153.9" stroke="#ffffff" stroke-opacity="0.11" stroke-width="0.8"/>
-<polygon points="861,217 796.6,244.5 740.6,202.5 749,133 813.4,105.5 869.4,147.5" stroke="#ffffff" stroke-opacity="0.06" stroke-width="0.8"/>
-<polygon points="852.6,210.7 797.9,234.1 750.3,198.4 757.4,139.3 812.1,115.9 859.7,151.6" stroke="#ffffff" stroke-opacity="0.07" stroke-width="0.8"/>
-<polygon points="903.9,249.2 790.2,297.7 691.3,223.5 706.1,100.8 819.8,52.3 918.7,126.5" stroke="#ffffff" stroke-opacity="0.08" stroke-width="0.8"/>
-<polygon points="895.8,243.1 791.4,287.7 700.6,219.6 714.2,106.9 818.6,62.3 909.4,130.4" stroke="#ffffff" stroke-opacity="0.11" stroke-width="0.8"/>
-<polygon points="902.3,248 790.4,295.8 693.1,222.8 707.7,102 819.6,54.2 916.9,127.2" stroke="#ffffff" stroke-opacity="0.07" stroke-width="0.8"/>
-<polygon points="916.3,258.5 788.3,313.1 677.1,229.6 693.7,91.5 821.7,36.9 932.9,120.4" stroke="#ffffff" stroke-opacity="0.1" stroke-width="0.8"/>
-<polygon points="917.5,259.4 788.2,314.6 675.7,230.2 692.5,90.6 821.8,35.4 934.3,119.8" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.8"/>
+<polygon points="896.7,243.8 791.3,288.8 699.6,220 713.3,106.2 818.7,61.2 910.4,130" fill="#448d91" stroke="#ffffff" stroke-opacity="0.6" stroke-width="1"/>
+<polygon points="879.9,231.2 793.8,267.9 718.9,211.8 730.1,118.8 816.2,82.1 891.1,138.2" fill="#161b24" stroke="#ffffff" stroke-opacity="0.6" stroke-width="1"/>
+<polygon points="843.5,203.9 799.2,222.7 760.8,193.9 766.5,146.1 810.8,127.3 849.2,156.1" stroke="#ffffff" stroke-opacity="0.11" stroke-width="0.8"/>
+<polygon points="855.1,212.6 797.5,237.2 747.4,199.6 754.9,137.4 812.5,112.8 862.6,150.4" stroke="#ffffff" stroke-opacity="0.06" stroke-width="0.8"/>
+<polygon points="847.6,206.9 798.6,227.8 756.1,195.9 762.4,143.1 811.4,122.2 853.9,154.1" stroke="#ffffff" stroke-opacity="0.07" stroke-width="0.8"/>
+<polygon points="893.4,241.3 791.8,284.8 703.3,218.4 716.6,108.7 818.2,65.2 906.7,131.6" stroke="#ffffff" stroke-opacity="0.08" stroke-width="0.8"/>
+<polygon points="886.2,235.9 792.9,275.8 711.7,214.9 723.8,114.1 817.1,74.2 898.3,135.1" stroke="#ffffff" stroke-opacity="0.11" stroke-width="0.8"/>
+<polygon points="892,240.3 792,283 704.9,217.7 718,109.7 818,67 905.1,132.3" stroke="#ffffff" stroke-opacity="0.07" stroke-width="0.8"/>
+<polygon points="911.4,254.8 789.1,307 682.7,227.2 698.6,95.2 820.9,43 927.3,122.8" stroke="#ffffff" stroke-opacity="0.1" stroke-width="0.8"/>
+<polygon points="913.4,256.4 788.8,309.6 680.3,228.2 696.6,93.6 821.2,40.4 929.7,121.8" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.8"/>
 <text x="805" y="180" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="14" font-style="italic" fill="#eef2f6" fill-opacity="0.92">Jul</text>
-<text x="865.8" y="80.8" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="14" font-style="italic" fill="#0f141b" fill-opacity="0.92">Aug</text>
-<text x="877.2" y="62.3" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="14" font-style="italic" fill="#eef2f6" fill-opacity="0.92">Oct</text>
+<text x="859.4" y="91.2" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="14" font-style="italic" fill="#0f141b" fill-opacity="0.92">Aug</text>
+<text x="873.6" y="68" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="14" font-style="italic" fill="#eef2f6" fill-opacity="0.92">Oct</text>
 <text x="805" y="349" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="14" font-style="italic" fill="#656d76">Fig. 2. Growth zoning, one band per month.</text>
 <polygon points="667.6,376.2 661.2,378.9 655.6,374.7 656.4,367.8 662.8,365.1 668.4,369.3" fill="#6161ae" stroke="#656d76" stroke-opacity="0.5" stroke-width="0.8"/>
-<text x="679" y="377" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" fill="#1f2328"><tspan font-weight="700">October 2026</tspan><tspan dx="10" font-style="italic" fill="#656d76">1 repository</tspan></text>
-<text x="679" y="398" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="15" fill="#3d444d">Rust, Just, C++</text>
+<text x="679" y="377" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" fill="#1f2328"><tspan font-weight="700">October 2026</tspan><tspan dx="10" font-style="italic" fill="#656d76">2 repositories</tspan></text>
+<text x="679" y="398" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="15" fill="#3d444d">Python, Rust, Just, C++</text>
 <polygon points="667.6,428.2 661.2,430.9 655.6,426.7 656.4,419.8 662.8,417.1 668.4,421.3" fill="#448d91" stroke="#656d76" stroke-opacity="0.5" stroke-width="0.8"/>
 <text x="679" y="429" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="16" fill="#1f2328"><tspan font-weight="700">August 2026</tspan><tspan dx="10" font-style="italic" fill="#656d76">1 repository</tspan></text>
 <text x="679" y="450" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="15" fill="#3d444d">firmware for an ESP32-S3</text>
