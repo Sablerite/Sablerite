@@ -61,6 +61,28 @@ async function reposFor(login, exclude) {
   return out;
 }
 
+// Latest commits by the account, taken from its most recently pushed repositories.
+async function commitsFor(login, repos, limit = 5) {
+  const recent = [...repos].sort((a, b) => b.pushed.localeCompare(a.pushed)).slice(0, 4);
+  const out = [];
+  for (const r of recent) {
+    let list = [];
+    try {
+      list = await api(`/repos/${r.name}/commits?per_page=${limit}&author=${login}`);
+    } catch {}
+    for (const c of list) {
+      if (c.parents?.length > 1) continue; // skip merges
+      out.push({
+        repo: r.name,
+        sha: c.sha.slice(0, 7),
+        message: c.commit.message.split('\n')[0].trim(),
+        date: c.commit.author?.date || c.commit.committer?.date,
+      });
+    }
+  }
+  return out.sort((a, b) => b.date.localeCompare(a.date)).slice(0, limit);
+}
+
 export async function collect(cfg, snapshotPath) {
   let previous = null;
   try {
@@ -70,6 +92,7 @@ export async function collect(cfg, snapshotPath) {
   try {
     const calendar = new Map();
     const repos = [];
+    const commits = [];
     for (const login of cfg.accounts) {
       let days;
       try {
@@ -80,13 +103,17 @@ export async function collect(cfg, snapshotPath) {
         days = await calendarViaPage(login);
       }
       for (const [date, n] of days) calendar.set(date, (calendar.get(date) || 0) + n);
-      repos.push(...(await reposFor(login, cfg.exclude || [])));
+      const own = await reposFor(login, cfg.exclude || []);
+      repos.push(...own);
+      commits.push(...(await commitsFor(login, own)));
     }
+    commits.sort((a, b) => b.date.localeCompare(a.date));
     const data = {
       fetched: new Date().toISOString(),
       accounts: cfg.accounts,
       days: [...calendar.entries()].sort(([a], [b]) => a.localeCompare(b)),
       repos,
+      commits,
     };
     // Only rewrite the snapshot when something besides the timestamp changed.
     const same = (a, b) => JSON.stringify({ ...a, fetched: 0 }) === JSON.stringify({ ...b, fetched: 0 });

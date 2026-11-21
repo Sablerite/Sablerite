@@ -1,4 +1,4 @@
-name: Regrow the specimen
+name: Update profile
 
 # Rebuilds the README and its SVGs from fresh public activity once a day,
 # and whenever the content or the build scripts change.
@@ -40,8 +40,8 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md assets data
           if git diff --cached --quiet; then
-            echo 'Nothing new grew today.'
+            echo 'Nothing changed today.'
           else
-            git commit -m 'Regrow specimen'
+            git commit -m 'Update profile'
             git push
           fi
